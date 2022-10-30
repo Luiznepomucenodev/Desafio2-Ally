@@ -1,0 +1,25 @@
+.card {
+    background-color: rgb(179, 255, 255);
+    border-radius: 10px;
+    margin: 50px;
+    width: 600px;
+    height: 600px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.format {
+    border-radius: 10px;
+    margin: 10px;
+    padding: 7px;
+    width: 400px;
+}
+
+.multi{
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
